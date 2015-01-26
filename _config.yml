@@ -1,0 +1,24 @@
+# Site settings
+title: Travelog
+subtitle: "Journal of Michael Seid"
+email: "mbseid@gmail.com"
+description: "A sailor, an entreprenaur, and a programmer. Just my view of the world"
+baseurl: ""
+url: "http://mbseid.com"
+socialUrl: "http://s.mbseid.com"
+
+
+twitter_username: "mbseid"
+github_username:  "mbseid"
+instagram_username: "mbseid"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Pagination
+paginate: 5
+
+# Sass
+sass:
+    style: :compressed
