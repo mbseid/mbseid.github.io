@@ -1,6 +1,8 @@
 @import "modules/post/rules";
 @import "modules/about/rules";
 @import "modules/pagination/rules";
+@import "modules/mbseid/rules";
 @include travelog-post;
 @include travelog-about;
 @include travelog-pagination;
+@include mbseid-custom;

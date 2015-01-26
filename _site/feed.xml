@@ -5,56 +5,27 @@
     <description>A sailor, an entreprenaur, and a programmer. Just my view of the world</description>
     <link>http://mbseid.com/</link>
     <atom:link href="http://mbseid.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 25 Jan 2015 20:44:57 -0800</pubDate>
-    <lastBuildDate>Sun, 25 Jan 2015 20:44:57 -0800</lastBuildDate>
+    <pubDate>Sun, 25 Jan 2015 21:45:24 -0800</pubDate>
+    <lastBuildDate>Sun, 25 Jan 2015 21:45:24 -0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>The Travelog Theme</title>
-        <description>&lt;p&gt;Travelog is a theme for Jekyll that is both elegant and downright simple.&lt;/p&gt;
+        <title>New City, New Fun</title>
+        <description>&lt;p&gt;I’m from New York with a 4 year pitstop in Washington, DC. Over the past 3 months, I have transitioned to San Francisco with my lovely girlfriend Chelsea. Being new to a town there are a ton of new places to explore, places to eat and things to do. Things are a bit different on the west cost, I can already feel it. Just being able to see the mountains connect to the oceans is truly a powerful feeling. &lt;/p&gt;
 
-&lt;p&gt;In addition to being devilishly handsome, it is responsive down to mobile and has a very light footprint. Travelog lends itself well to photography and travel journaling.&lt;/p&gt;
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-version=&quot;4&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;&lt;a href=&quot;https://instagram.com/p/yTkyvvJ3R4/&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&quot; target=&quot;_top&quot;&gt;A photo posted by mbseid (@mbseid)&lt;/a&gt; on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2015-01-26T05:43:48+00:00&quot;&gt;Jan 25, 2015 at 9:43pm PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;Like a backpack with too many straps, a blog can sometimes be frustrating when it has too many bells and whistles. It is with that philosophy that I have put together this theme so that you might drown in its whitespace.&lt;/p&gt;
+&lt;p&gt;This blog will serve as a chronicle of my explorations in San Francisco. Over the coming year, I’ll be sharing my favorite Restaurants, Bars and Activities from around the city. Hopefully you will have much as fun as I will.  Feel free to give a few recommendations along the way, I would love to hear from you. &lt;/p&gt;
 
-&lt;div class=&quot;post-image&quot;&gt;
-    &lt;img src=&quot;http://placehold.it/885x500&quot; /&gt;
-    &lt;p class=&quot;post-image-caption&quot;&gt;Using a little bit of markup, you can add beautiful captions to your totally beautiful pictures. Amazing.&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;With love and cheers!&lt;/p&gt;
 
-&lt;div class=&quot;post-image post-image--split&quot;&gt;
-    &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;http://placehold.it/435x500&quot; /&gt;
-    &lt;/a&gt;
-    &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;http://placehold.it/435x500&quot; /&gt;
-    &lt;/a&gt;
-    &lt;p class=&quot;post-image-caption&quot;&gt;
-    	&lt;span class=&quot;post-image-caption-left&quot;&gt;
-    		Expanding on this, you can show two images side-by-side
-    	&lt;/span&gt;
-    	&lt;span class=&quot;post-image-caption-right&quot;&gt;
-    		And even define separate captions for each.
-    	&lt;/span&gt;
-    &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;The code can be found on Github &lt;a href=&quot;https://github.com/rowanoulton/travelog-theme&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Any questions, get at me on Twitter: &lt;a href=&quot;https://twitter.com/rowanoulton/&quot;&gt;@rowanoulton&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mike&lt;/p&gt;
 </description>
-        <pubDate>Tue, 12 Aug 2014 10:39:55 -0700</pubDate>
-        <link>http://mbseid.com/auckland,/new-zealand/2014/08/12/the-travelog-theme/</link>
-        <guid isPermaLink="true">http://mbseid.com/auckland,/new-zealand/2014/08/12/the-travelog-theme/</guid>
+        <pubDate>Sun, 25 Jan 2015 00:00:00 -0800</pubDate>
+        <link>http://mbseid.com/2015/01/25/new-city,-new-fun/</link>
+        <guid isPermaLink="true">http://mbseid.com/2015/01/25/new-city,-new-fun/</guid>
         
-        <category>auckland</category>
-        
-        <category>new-zealand</category>
-        
-        
-        <category>auckland,</category>
-        
-        <category>new-zealand</category>
         
       </item>
     
